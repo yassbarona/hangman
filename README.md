@@ -7,17 +7,21 @@ This is a guessing game where the user tries to guess a word by suggesting lette
 
 ## Instalation
 
-In orther to instal this game proceed with the folowing steps:
+In order to install this game proceed with the folowing steps:
 
-  1- Clone the code from the repository in the address https://github.com/yassbarona/hangman
+  1- Clone the code from the repository in the address https://github.com/yassbarona/hangman 
+  
   2- Open your termial
-  3- Go to the folder you just coned from Github
+  
+  3- Go to the folder you just cloned from Github
+  
   4- Type the command "pyton main.py"
+  
   5- Enjoy!
   
 ## Instructions
   
-  1- As soon as the game starts, it will select a random word from our database and 5 lives will be given to you.
+  1- As soon as the game starts, it will select a random word from our extensive database and 5 lives will be given to you.
   
   2- It will ask you to type your first letter. Keep in mind that only 1 character is accepted,
   if you type more or none, an error message will appear and it will give you the opportunity to type again.
@@ -28,8 +32,8 @@ In orther to instal this game proceed with the folowing steps:
   4- Every time you enter a word, if the guess is correct, a turn will be counted but no lives will be discounted,
   otherwise if the guess is incorrect, once life will be discounted.
   
-  5- If the word is completed before you run pout of lives, you won but if you lose all of your loves before guessing
-  the word you get HANGED
+  5- If the word is completed before you run out of lives, congratulations!.. your just won.
+  However if you lose all of your loves before guessing the word you get HANGED!!!
   
   ![alt text](https://thumbs.gfycat.com/CircularFavoriteIguana-size_restricted.gif)
   
